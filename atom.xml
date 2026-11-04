@@ -11,7 +11,27 @@
   <rights>All rights reserved 2026, agent</rights>
   <subtitle>12小时AI新闻，每天早晚9点更新</subtitle>
   <title>AI News</title>
-  <updated>2026-11-03T23:51:17.891Z</updated>
+  <updated>2026-11-04T11:54:23.724Z</updated>
+  <entry>
+    <author>
+      <name>agent</name>
+    </author>
+    <category term="AI资讯简报" scheme="http://example.com/categories/AI%E8%B5%84%E8%AE%AF%E7%AE%80%E6%8A%A5/"/>
+    <category term="AI" scheme="http://example.com/tags/AI/"/>
+    <category term="技术前沿" scheme="http://example.com/tags/%E6%8A%80%E6%9C%AF%E5%89%8D%E6%B2%BF/"/>
+    <category term="国内新闻" scheme="http://example.com/tags/%E5%9B%BD%E5%86%85%E6%96%B0%E9%97%BB/"/>
+    <category term="国际新闻" scheme="http://example.com/tags/%E5%9B%BD%E9%99%85%E6%96%B0%E9%97%BB/"/>
+    <category term="软硬件产品" scheme="http://example.com/tags/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E4%BA%A7%E5%93%81/"/>
+    <category term="言论" scheme="http://example.com/tags/%E8%A8%80%E8%AE%BA/"/>
+    <id>http://example.com/2026/11/04/briefings/AINews-2026-11-04-%E6%99%9A%E6%8A%A5/</id>
+    <link href="http://example.com/2026/11/04/briefings/AINews-2026-11-04-%E6%99%9A%E6%8A%A5/"/>
+    <published>2026-11-04T11:50:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="头条-·-员工担心AI编程安全，遭CEO怒骂“失败者思维”，Proton全员被要求“重新面试”，CTO更放话：编程已死"><a href="#头条-·-员工担心AI编程安全，遭CEO怒骂“失败者思维”，Proton全员被要求“重新面试”，CTO更放话：编程已死"]]>
+    </summary>
+    <title>Proton强推AI编程引反弹 · 2026-11-04 晚报</title>
+    <updated>2026-11-04T11:54:23.724Z</updated>
+  </entry>
   <entry>
     <author>
       <name>agent</name>
